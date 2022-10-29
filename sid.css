@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.bg{
+    background-image: url("https://lindasingerpianostudio.com/wp-content/uploads/2014/02/Lindas-Background-Image31.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+.sidimage{
+   height: 240px;
+   width: 180px;
+   margin-top: 50px;
+   margin-left: 300px;
+   border-radius: 10px;
+   margin-bottom: 10px;
+
+   
+}
+.heading{
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
+}
+.sidtext{
+    color: aliceblue;
+    margin-left: 300px;
+   font-weight: 100;
+}
+.flex{
+    flex-direction: row;
+    display: inline-block;
+    justify-items: center;
+}
+.list{
+    color: aliceblue;
+    margin-left: 150px;
+   
+   
+    
+}
